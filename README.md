@@ -1,2 +1,0 @@
-# applicationFinalVersion
-Created with CodeSandbox
